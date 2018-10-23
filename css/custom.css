@@ -1,0 +1,10 @@
+body{
+	font-family: 'Inconsolata', monospace;
+}
+.carousel-caption{
+	padding-bottom: 20%;
+	color:white;
+}
+.carousel-caption h3 p{
+	font-weight: bold;
+}
